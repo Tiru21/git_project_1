@@ -1,4 +1,3 @@
 # I am author!
-print("Привет!!!")
+print("hello J")
 # 2021 (c) Me
-
